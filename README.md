@@ -14,7 +14,7 @@ Welcome to the React project! This README file will guide you through the steps 
 To install the project, follow these steps:
 
 1. Clone the repository from GitHub:
-   git clone https://github.com/your-username/your-react-project.git
+   git clone https://github.com/nmn-yd/TravelList.git
    
 2. Change into the project directory: cd your-react-project
 
