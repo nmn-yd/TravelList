@@ -5,6 +5,7 @@ The Trip Packing List Tracker is a Application that allows users to keep track o
 Features
 Add Items: Users can add new items and their quantities to the packing list.
 
+
 Remove Items: Users can remove items from the packing list.
 
 Check Items: Users can check off items from the packing list once they have been packed.
@@ -12,6 +13,9 @@ Check Items: Users can check off items from the packing list once they have been
 View List: Users can view the entire packing list with all the items, quantities, and their packing status.
 
 Save List: The tool automatically saves the packing list to a file, so users can resume their progress later.
+
+SCREENSHOT :
+![Screenshot 2023-07-28 173636](https://github.com/nmn-yd/Trip-Packing-List-Tracker/assets/97431919/1abb5235-1b64-4c79-b6f7-ad06f59ac407)
 
 ## Table of Contents
 
