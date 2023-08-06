@@ -14,7 +14,7 @@ View List: Users can view the entire packing list with all the items, quantities
 
 Save List: The tool automatically saves the packing list to a file, so users can resume their progress later.
 
-SCREENSHOT :
+SCREENSHOTS ARE  :
 ![Screenshot 2023-07-28 173636](https://github.com/nmn-yd/Trip-Packing-List-Tracker/assets/97431919/1abb5235-1b64-4c79-b6f7-ad06f59ac407)
 
 ## Table of Contents
